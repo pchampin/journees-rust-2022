@@ -33,7 +33,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="graph0" />
+     inkscape:current-layer="node1" />
   <g
      id="graph0"
      class="graph"
@@ -58,12 +58,12 @@
          id="polyline8" />
       <text
          text-anchor="start"
-         x="45.7759"
+         x="45.775902"
          y="-129.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          fill="#000000"
-         id="text10">s1</text>
+         id="text10">v1</text>
       <polygon
          fill="none"
          stroke="#000000"
